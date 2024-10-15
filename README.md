@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Joshua
 #### I am Software Engineer
-![I am Software Engineer](h)
+![I am Software Engineer](https://raw.githubusercontent.com/angugo/angugo/refs/heads/main/github-header-image.png)
 
 Enthusiastic Full Stack Software Developer with hands-on experience in backend and frontend development. Strong background in Ruby, React, and project management, with proven success in optimizing software solutions and collaborating in Agile environments. Adept at designing responsive web applications and integrating backend services. Continuously striving to stay updated with industry trends and technologies.
 
