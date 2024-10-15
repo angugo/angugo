@@ -13,9 +13,10 @@ Skills: NEXT.JS / REACT / DJANGO / PYTHON / JAVASCRIPT
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/angugo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://anthos-iss.vercel.app/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/angugo&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=angugo&show_icons=true)
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/angugo)  
+![GitHub metrics](https://metrics.lecoq.io/angugo)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/angugo)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=angugo)
+
 
